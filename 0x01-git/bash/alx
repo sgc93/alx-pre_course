@@ -1,4 +1,4 @@
 !/bin/bash
-ALX school
+echo "ALX School"
 echo
 echo ALX
