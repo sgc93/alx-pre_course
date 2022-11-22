@@ -1,8 +1,7 @@
 !/bin/bash
-<<<<<<< HEAD
+
 ALX School is so cool!
-=======
+
 echo "ALX School"
->>>>>>> update_script
 echo
 echo ALX
